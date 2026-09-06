@@ -99,7 +99,6 @@ Capital is carried forward from one out-of-sample window to the next.
 | Sharpe Ratio | 0.374 | 1.065 |
 | Max Drawdown | -37.23% | -57.37% |
 
-![Walk-forward performance](assets/walk_forward_performance.png)
 
 ## Interpretation
 
@@ -128,8 +127,6 @@ This repository demonstrates practical experience with:
 - Sharpe ratio and drawdown analysis;
 - benchmark-based model evaluation;
 - reproducible Python research workflows.
-
-```
 
 ## Planned Improvements
 
